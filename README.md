@@ -1,0 +1,1 @@
+This is my project for connfiguration the new method for handling and managing the project.
